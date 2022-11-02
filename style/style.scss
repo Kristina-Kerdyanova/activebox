@@ -7,7 +7,7 @@
 $textwhiteColor: #FFFFFF;
 $bgColor:#FF4343;
 $lineColor: #BABBC5;
-$textgrayColor:#6C7279;
+$textgreyColor:#6C7279;
 $textblackColor: #2D3033;
 $blockColor: #FF4343;
 $activeColor:#E71414;
@@ -289,7 +289,7 @@ $activeColor:#E71414;
 }
 
 .element__text {
-  color: $textgrayColor;
+  color: $textgreyColor;
   font-size: 18px;
   text-align: center;
   margin-bottom: 97px;
@@ -522,7 +522,7 @@ $activeColor:#E71414;
   }
 
   &-text {
-    color: $textgrayColor;
+    color: $textgreyColor;
     font-size: 18px;
     display: flex;
     text-align: center;
